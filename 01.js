@@ -10,7 +10,7 @@ function numberL(a, b) {
     if (a == b) {
         (console.log('0'))
     }
-
+// гиде return?
 
 }
 let a = +prompt('input numb')
